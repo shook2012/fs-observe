@@ -1,0 +1,6 @@
+{
+    "source": "c:/source/",
+    "target": "d:/dest/",
+    "exts": ".js,.css,.jsp",
+    "logfile":"file_sync.log"
+}
